@@ -1,0 +1,7 @@
+[
+	{
+		"name": "Snow Shoes",
+		"effect": "Double movement in Snow, Tundra and Hills",
+		"uniques": ["Can enter ice tiles"]
+	}
+]

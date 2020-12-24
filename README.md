@@ -1,0 +1,1 @@
+Command the forces of the North Pole and save Christmas... or declare war on Christmas and cancel it forever! A Yuletide-themed mod for UnCiv

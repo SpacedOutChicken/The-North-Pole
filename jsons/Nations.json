@@ -1,0 +1,36 @@
+[
+	{
+		"name": "The North Pole",
+		"leaderName": "Saint Nicholas",
+		"adjective": ["Polar"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "'When, what to my wondering eyes should appear, but a miniature sleigh, and eight tiny reindeer,ith a little old driver, so lively and quick, I knew in a moment it must be St. Nick.' - Clement Moore",
+		"startIntroPart2": "'Maybe Christmas, he thought, doesn't come from a store. Maybe Christmas, perhaps, means a little bit more.' - Theodore Geisel",
+		
+		"declaringWar": "The naughty must be punished! Prepare to receive your coal!",
+		"attacked": "You dare declare war on Christmas? Bah humbug!",
+		"defeated": "Christmas is canceled! Who will help the children now?",
+		"introduction": "Merry Christmas! Have you been good this year?",
+		
+		"neutralHello": "What would you like for Christmas?",
+		"neutralLetsHearIt": "Whisper in my ear.",
+		"neutralNo": "No, that won't do.",
+		"neutralYes": "Yes, that is good.",
+
+		"hateHello": "Are you still being naughty?",
+		"hateLetsHearIt": "Go on, give me your letter.",
+		"hateNo": "That's not nice!",
+		"hateYes": "Very well.",
+		
+		"afterPeace": "Enough fighting. Time for milk and cookies.",
+		"tradeRequest": "I have gifts for you!",
+
+		"outerColor": [140,0,0],
+		"innerColor": [0,120,0],
+		"uniqueName": "Christmas Spirit",
+		"uniques": ["[+1 Happiness] from all [Production] buildings","[non-air] units gain the [Snow Shoes] promotion","Double quantity of [Coal] produced"],
+		"cities": ["90 Degrees North","Santa's Corner","Coffee Club Island","Polar Expressway","Alert","Camp Barneo","Drift Station Alpha","Arktika","Hans Island","Candy Cane Forest","Rudolph's Place"]
+	}
+]

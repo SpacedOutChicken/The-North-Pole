@@ -1,0 +1,41 @@
+[
+	{
+		"name": "Gingerbread House",
+		"replaces": "Walls",
+		"uniqueTo": "The North Pole",
+		"cityStrength": 5,
+		"cityHealth": 50,
+		"hurryCostModifier": 25,
+		"uniques": ["[+1 Food] from [Snow] tiles in this city"],
+		"requiredTech": "Masonry"
+	},
+	{
+		"name": "Gingerbread Fort",
+		"replaces": "Castle",
+		"uniqueTo": "The North Pole",
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"uniques": ["[+1 Happiness] from [Fort] tiles in this city"],
+		"requiredTech": "Chivalry"
+	},
+	{
+		"name": "Santa's Workshop",
+		"replaces": "Ironworks",
+		"uniqueTo": "The North Pole",
+		"cost": 125,
+		"production": 8,
+		"happiness": 3,
+		"culture": 1,
+		"isNationalWonder": true,
+		"requiredBuildingInAllCities": "Workshop",
+		"uniques": ["Requires a [Workshop] in all cities",
+			"Cost increases by [30] per owned city",
+			"[+1 Culture] from every [Snow]",
+			"[+1 Culture] from every [Workshop]",
+			"Provides [2] [Milk and Cookies]",
+			"Provides [2] [Coal]"],
+		"requiredTech": "Machinery"
+	}
+]
