@@ -12,7 +12,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["No defensive terrain bonus","Rough terrain penalty","+[10]% combat bonus in [Snow]","+[10]% combat bonus in [Tundra]"],
+		"uniques": ["No defensive terrain bonus","Rough terrain penalty","+[10]% Strength in [Snow]","+[10]% Strength in [Tundra]"],
 		"attackSound": "arrow"
 	},
 	{
