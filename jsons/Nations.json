@@ -3,7 +3,7 @@
 		"name": "The North Pole",
 		"leaderName": "Saint Nicholas",
 		"adjective": ["Polar"],
-		"startBias": ["Tundra"],
+		"startBias": ["Snow"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "'When, what to my wondering eyes should appear, but a miniature sleigh, and eight tiny reindeer,ith a little old driver, so lively and quick, I knew in a moment it must be St. Nick.' - Clement Moore",
