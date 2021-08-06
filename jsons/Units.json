@@ -1,7 +1,7 @@
 [
 	{
 		"name": "One-Horse Open Sleigh",
-		"unitType": "Ranged",
+		"unitType": "Archery",
 		"uniqueTo": "The North Pole",
 		"replaces": "Chariot Archer",
 		"movement": 4,
@@ -17,7 +17,7 @@
 	},
 	{
 		"name": "Elf Archer",
-		"unitType": "Ranged",
+		"unitType": "Archery",
 		"replaces": "Crossbowman",
 		"uniqueTo": "The North Pole",
 		"movement": 2,
@@ -26,7 +26,7 @@
 		"cost": 120,
 		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
-		"uniques": ["Can build improvements on tiles"],
+		"uniques": ["Can build [Land] improvements on tiles"],
 		"attackSound": "arrow"
 	},
 	{
@@ -46,7 +46,7 @@
 	},
 	{
 		"name": "Magic Sleigh",
-		"unitType": "Melee",
+		"unitType": "Helicopter",
 		"replaces": "Helicopter Gunship",
 		"uniqueTo": "The North Pole",
 		"movement": 6,
