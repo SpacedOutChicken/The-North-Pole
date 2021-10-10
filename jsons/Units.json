@@ -12,7 +12,10 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["No defensive terrain bonus","Rough terrain penalty","+[10]% Strength in [Snow]","+[10]% Strength in [Tundra]"],
+		"uniques": ["No defensive terrain bonus",
+			"Rough terrain penalty",
+			"[+10]% Strength <when fighting in [Snow] tiles>",
+			"[+10]% Strength <when fighting in [Tundra] tiles>"],
 		"attackSound": "arrow"
 	},
 	{
@@ -41,7 +44,12 @@
 		"obsoleteTech": "Combustion",
 		"requiredResource": "Horses",
 		"upgradesTo": "Landship",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","-[33]% Strength vs [City]","All tiles cost 1 movement","Can pass through impassable tiles", "Unable to capture cities"],
+		"uniques": ["Can move after attacking",
+			"No defensive terrain bonus",
+			"[-33]% Strength <vs cities>",
+			"All tiles cost 1 movement",
+			"Can pass through impassable tiles",
+			"Unable to capture cities"],
 		"attackSound": "horse"
 	},
 	{
@@ -54,7 +62,12 @@
 		"cost": 425,
 		"requiredTech": "Computers",
 		"requiredResource": "Aluminum",
-		"uniques": ["+[100]% Strength vs [Armor]", "No defensive terrain bonus", "Can move after attacking", "All tiles cost 1 movement","Can pass through impassable tiles", "Unable to capture cities"],
+		"uniques": ["[+100]% Strength <vs [Armored] units>",
+			"No defensive terrain bonus",
+			"Can move after attacking",
+			"All tiles cost 1 movement",
+			"Ignores Zone of Control",
+			"Unable to capture cities"],
 		"promotions": ["Medic"],
 		"attackSound": "shot"
 	}

@@ -1,6 +1,6 @@
 [
 	{
 		"name": "Snow Shoes",
-		"uniques": ["Double movement in Snow, Tundra and Hills","Can enter ice tiles"]
+		"uniques": ["Double movement in [Snow]", "Double movement in [Tundra]", "Can enter ice tiles"]
 	}
 ]
