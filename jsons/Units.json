@@ -28,7 +28,7 @@
 		"rangedStrength": 18,
 		"cost": 120,
 		"requiredTech": "Machinery",
-		"upgradesTo": "Gatling Gun",
+		"upgradesTo": "Rifleman",
 		"uniques": ["Can build [Land] improvements on tiles"],
 		"attackSound": "arrow"
 	},
@@ -43,7 +43,7 @@
 		"requiredTech": "Military Science",
 		"obsoleteTech": "Combustion",
 		"requiredResource": "Horses",
-		"upgradesTo": "Landship",
+		"upgradesTo": "Tank",
 		"uniques": ["Can move after attacking",
 			"No defensive terrain bonus",
 			"[-33]% Strength <vs cities>",

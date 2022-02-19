@@ -6,7 +6,8 @@
 		"cityStrength": 5,
 		"cityHealth": 50,
 		"hurryCostModifier": 25,
-		"uniques": ["[+1 Food] from [Snow] tiles [in this city]"],
+		"uniques": ["[+1 Food] from [Snow] tiles [in this city]",
+			"Destroyed when the city is captured"],
 		"requiredTech": "Masonry"
 	},
 	{
@@ -17,8 +18,23 @@
 		"cityHealth": 25,
 		"hurryCostModifier": 25,
 		"requiredBuilding": "Walls",
-		"uniques": ["[+1 Happiness] from [Fort] tiles [in this city]"],
+		"uniques": ["[+1 Happiness] from [Fort] tiles [in this city]",
+			"Destroyed when the city is captured"],
 		"requiredTech": "Chivalry"
+	},
+	{
+		"name": "Reindeer Stable",
+		"uniqueTo": "The North Pole",
+		"replaces": "Stable",
+		"maintenance": 1,
+		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle","Deer"],
+		"hurryCostModifier": 25,
+		"uniques": ["[+15]% Production when constructing [Mounted] units [in this city]",
+			"[+1 Production] from [Cattle] tiles [in this city]",
+			"[+1 Production] from [Horses] tiles [in this city]",
+			"[+1 Production] from [Sheep] tiles [in this city]",
+			"[+1 Production, +1 Happiness] from [Deer] tiles [in this city]"],
+		"requiredTech": "Horseback Riding"
 	},
 	{
 		"name": "Santa's Workshop",

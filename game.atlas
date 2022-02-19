@@ -1,75 +1,82 @@
 
 game.png
-size: 1024,128
+size: 2048, 128
 format: RGBA8888
-filter: MipMapLinearLinear,MipMapLinearLinear
+filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Gingerbread Fort
   rotate: false
-  xy: 206, 2
+  xy: 220, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Gingerbread House
   rotate: false
-  xy: 308, 2
+  xy: 328, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Reindeer Stable
+  rotate: false
+  xy: 760, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Santa's Workshop
   rotate: false
-  xy: 716, 2
+  xy: 868, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The North Pole
   rotate: false
-  xy: 818, 2
+  xy: 976, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Milk and Cookies
   rotate: false
-  xy: 512, 2
+  xy: 544, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Elf Archer
   rotate: false
-  xy: 2, 2
+  xy: 4, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Flying Reindeer
   rotate: false
-  xy: 104, 2
+  xy: 112, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Magic Sleigh
   rotate: false
-  xy: 410, 2
+  xy: 436, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/One-Horse Open Sleigh
   rotate: false
-  xy: 614, 2
+  xy: 652, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Snow Shoes
   rotate: false
-  xy: 920, 52
+  xy: 1084, 54
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
