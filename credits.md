@@ -1,3 +1,5 @@
+Preview image: [Jolly St Nick](https://www.christmas-graphics.com/graphics/santa/sclaus-4.html)
+
 Icons adapted from the Noun Project:
 
 The North Pole nation icon: [Christmas by Sandhi Priyasmoro](https://thenounproject.com/term/christmas/1982877/)
