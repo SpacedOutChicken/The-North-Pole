@@ -46,9 +46,10 @@
 		"upgradesTo": "Tank",
 		"uniques": ["Can move after attacking",
 			"No defensive terrain bonus",
-			"[-33]% Strength <vs cities>",
+			"[-33]% Strength <vs cities> <when attacking>",
 			"All tiles cost 1 movement",
 			"Can pass through impassable tiles",
+			"Ignores Zone of Control",
 			"Unable to capture cities"],
 		"attackSound": "horse"
 	},
