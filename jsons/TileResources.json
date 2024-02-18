@@ -3,6 +3,7 @@
         "name": "Milk and Cookies",
         "food": 1,
         "gold": 1,
-	    "resourceType": "Luxury"
+	    "resourceType": "Luxury",
+        "uniques": ["Doesn't generate naturally"]
     }
 ]

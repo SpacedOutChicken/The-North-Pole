@@ -2,5 +2,13 @@
 	{
 		"name": "Snow Shoes",
 		"uniques": ["Double movement in [Snow]", "Double movement in [Tundra]", "Can enter ice tiles"]
+	},
+	{
+		"name": "[Elf Archer] ability",
+		"uniques": ["Can build [Land] improvements on tiles"]
+	},
+	{
+		"name": "[Flying Reindeer] ability",
+		"uniques": ["Can pass through impassable tiles", "May Paradrop up to [5] tiles from inside friendly territory"]
 	}
 ]

@@ -29,8 +29,9 @@
 		"cost": 120,
 		"requiredTech": "Machinery",
 		"upgradesTo": "Rifleman",
-		"uniques": ["Can build [Land] improvements on tiles"],
-		"attackSound": "arrow"
+		"obsoleteTech": "Rifling",
+		"promotions": ["[Elf Archer] ability"],
+		"attackSound": "crossbow"
 	},
 	{
 		"name": "Flying Reindeer",
@@ -48,9 +49,9 @@
 			"No defensive terrain bonus",
 			"[-33]% Strength <vs cities> <when attacking>",
 			"All tiles cost 1 movement",
-			"Can pass through impassable tiles",
 			"Ignores Zone of Control",
 			"Unable to capture cities"],
+		"promotions": ["[Flying Reindeer] ability"],
 		"attackSound": "horse"
 	},
 	{
