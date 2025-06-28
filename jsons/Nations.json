@@ -30,7 +30,7 @@
 		"outerColor": [112,0,0],
 		"innerColor": [51,147,51],
 		"uniqueName": "Christmas Spirit",
-		"uniques": ["[+1 Happiness] from all [Production] buildings","[non-[Air]] units gain the [Snow Shoes] promotion","Double quantity of [Coal] produced"],
+		"uniques": ["[+1 Happiness] from all [Production] buildings","[non-[Air]] units gain the [Snow Shoes] promotion","[+100]% [Coal] resource production"],
 		"cities": ["90 Degrees North","Santa's Corner","Coffee Club Island","Polar Expressway","Alert","Camp Barneo","Drift Station Alpha","Arktika","Hans Island","Candy Cane Forest","Rudolph's Place"],
 		"spyNames": ["Dasher", "Dancer", "Prancer", "Vixen", "Comet", "Cupid", "Donner", "Blitzen", "Rudolph", "Olive"]
 	}
