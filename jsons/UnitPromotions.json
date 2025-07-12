@@ -9,6 +9,6 @@
 	},
 	{
 		"name": "[Flying Reindeer] ability",
-		"uniques": ["Can pass through impassable tiles", "May Paradrop up to [5] tiles from inside friendly territory"]
+		"uniques": ["Can pass through impassable tiles", "May Paradrop to [Land] tiles up to [5] tiles away <in [{Friendly} {Land}] tiles>"]
 	}
 ]
